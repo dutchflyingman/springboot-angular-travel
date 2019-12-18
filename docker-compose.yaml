@@ -1,0 +1,12 @@
+version: '3'
+services:
+  docker-frontend:
+    image:  praveen/frontend-angular
+    ports:
+      - 4200:80
+    depends_on:
+      - docker-backend
+  docker-backend:
+    image: praveen/backend-api
+    ports:
+      - 8080:8080
