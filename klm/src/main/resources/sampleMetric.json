@@ -1,0 +1,31 @@
+{
+  "name": "http.server.requests",
+  "description": null,
+  "baseUnit": "seconds",
+  "measurements": [{
+    "statistic": "COUNT",
+    "value": 6.0
+  }, {
+    "statistic": "TOTAL_TIME",
+    "value": 7.760729899999999
+  }, {
+    "statistic": "MAX",
+    "value": 3.4880095
+  }],
+  "availableTags": [{
+    "tag": "exception",
+    "values": ["MeterNotFoundException", "None"]
+  }, {
+    "tag": "method",
+    "values": ["GET"]
+  }, {
+    "tag": "uri",
+    "values": ["/locations/{type}/{code}", "/locations", "/locations/airports/{code}"]
+  }, {
+    "tag": "outcome",
+    "values": ["CLIENT_ERROR", "SERVER_ERROR", "SUCCESS"]
+  }, {
+    "tag": "status",
+    "values": ["404", "500", "200"]
+  }]
+}

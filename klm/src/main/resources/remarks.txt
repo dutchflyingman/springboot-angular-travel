@@ -1,0 +1,12 @@
+Revisit/TODO
+Enable globally- Cors origin in Security instead of Resource header-Enable globally
+H2 console enabled for Admin Only?
+Get All Location Service- JPA query or Repository Method-
+Pagination requirement not clear. Any Cache applicable?
+Create Service Class Exception or use Base.
+Statistics- ELK -Logstash or prometheus ? Display JSON-
+Get all Airports in US- Provided data sql has no airports with EN language.
+Retrieve without language.
+
+
+

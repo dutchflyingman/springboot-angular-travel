@@ -1,0 +1,5 @@
+GET http://localhost:8080/travel/{resource.location.parentpath}/{$resource.location.getairportsbycountry}
+Accept: application/json
+
+###
+

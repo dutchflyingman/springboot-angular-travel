@@ -1,0 +1,53 @@
+[{
+  "code": "YT",
+  "type": "country",
+  "latitude": -12.5,
+  "longitude": 45.1,
+  "name": "Mayotte",
+  "description": "Mayotte (YT)",
+  "parentLocationCode": null,
+  "parentLocationType": null
+}, {
+  "code": "IE",
+  "type": "country",
+  "latitude": 53.0,
+  "longitude": -8.0,
+  "name": "Ireland",
+  "description": "Ireland (IE)",
+  "parentLocationCode": null,
+  "parentLocationType": null
+}, {
+  "code": "IL",
+  "type": "country",
+  "latitude": 31.3,
+  "longitude": 34.45,
+  "name": "Israel",
+  "description": "Israel (IL)",
+  "parentLocationCode": null,
+  "parentLocationType": null
+}, {
+  "code": "AE",
+  "type": "country",
+  "latitude": 24.0,
+  "longitude": 54.0,
+  "name": "United Arab Emirates",
+  "description": "United Arab Emirates (AE)",
+  "parentLocationCode": null,
+  "parentLocationType": null
+}, {
+  "code": "IN",
+  "type": "country",
+  "latitude": 20.0,
+  "longitude": 77.0,
+  "name": "India",
+  "description": "India (IN)",
+  "parentLocationCode": null,
+  "parentLocationType": null
+}, {
+  "code": "ZA",
+  "type": "country",
+  "latitude": -29.0,
+  "longitude": 24.0,
+  "name": "South Africa",
+  "description": "South Africa"
+}]

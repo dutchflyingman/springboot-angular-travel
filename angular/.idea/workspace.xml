@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9cbff872-7428-4961-b4fe-c3c0e75741f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client-app/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-app/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-app/nginx-custom.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-app/src/app/location.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-app/src/app/location.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-app/src/app/locations/locations.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-app/src/app/locations/locations.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-app/src/app/locations/locations.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-app/src/app/locations/locations.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-app/src/app/locationsobjects.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-app/src/app/locationsobjects.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-app/src/assets/klm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-app/src/proxy-conf.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-app/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/client-app/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-app/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client-app/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-app/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/client-app/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-app/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client-app/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-app/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client-app/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-app/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client-app/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-app/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client-app/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-app/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/client-app/src/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client-app" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\klm-restapi-angular\angular\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V1DMGMJU72lqriBDV2JkXItCsO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\klm-restapi-angular\angular\client-app\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\klm-restapi-angular\angular\client-app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.client-app/Dockerfile">
+    <configuration name="E2E Tests (client-app)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/client-app/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="client-app/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="client-app/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/client-app/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.client-app/Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cbff872-7428-4961-b4fe-c3c0e75741f7" name="Default Changelist" comment="" />
+      <created>1576411657385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576411657385</updated>
+      <workItem from="1576411658865" duration="6274000" />
+      <workItem from="1576432961730" duration="5402000" />
+      <workItem from="1576527860380" duration="1999000" />
+      <workItem from="1576533537035" duration="21524000" />
+      <workItem from="1576610271517" duration="998000" />
+      <workItem from="1576617543663" duration="2161000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="0" key="#client-app/Dockerfile" timestamp="1576538097763">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="361" y="0" key="#client-app/Dockerfile/0.0.1280.680@0.0.1280.680" timestamp="1576538097763" />
+    <state x="393" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576413590513">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="393" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1576413590513" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1576658569560">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1576658569560" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1576610399465">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1576610399465" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1576601651156">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1576601651156" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1576603740830">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1576603740830" />
+  </component>
+</project>

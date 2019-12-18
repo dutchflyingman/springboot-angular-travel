@@ -1,0 +1,92 @@
+
+   Get Location by ISO Code and Location Type
+   /* select
+             location0_.id as id1_0_,
+             location0_.code as code2_0_,
+             location0_.latitude as latitude3_0_,
+             location0_.longitude as longitud4_0_,
+             location0_.parent_id as parent_i6_0_,
+             location0_.type as type5_0_
+         from
+             location location0_
+         left outer join
+             translation translatio1_
+                 on location0_.id=translatio1_.location
+         where
+             location0_.type=?
+             and upper(location0_.code)=upper(?)
+             and upper(translatio1_.language)=upper(?)
+
+             */
+
+    Get airports of given country .
+    /*   select
+        location0_.id as id1_0_,
+        location0_.code as code2_0_,
+        location0_.latitude as latitude3_0_,
+        location0_.longitude as longitud4_0_,
+        location0_.parent_id as parent_i6_0_,
+        location0_.type as type5_0_
+    from
+        location location0_
+    left outer join
+        location location1_
+            on location0_.parent_id=location1_.id
+    left outer join
+        location location2_
+            on location1_.parent_id=location2_.id
+    where
+        location0_.type='airport'
+        and upper(location2_.code)=upper('us')
+*/
+
+Get All Locations
+/*
+select
+        location1_.code as col_0_0_,
+        location1_.type as col_1_0_,
+        location1_.latitude as col_2_0_,
+        location1_.longitude as col_3_0_,
+        translatio0_.name as col_4_0_,
+        translatio0_.description as col_5_0_,
+        location2_.code as col_6_0_,
+        location2_.type as col_7_0_
+    from
+        translation translatio0_
+    left outer join
+        location location1_
+            on translatio0_.location=location1_.id
+    left outer join
+        location location2_
+            on location1_.parent_id=location2_.id
+    where
+        upper(translatio0_.language)=upper(?)
+
+  */
+
+ Get all airports of certain country and translation language considered
+    /*
+    Hibernate:
+    select
+        location0_.id as id1_0_,
+        location0_.code as code2_0_,
+        location0_.latitude as latitude3_0_,
+        location0_.longitude as longitud4_0_,
+        location0_.parent_id as parent_i6_0_,
+        location0_.type as type5_0_
+    from
+        location location0_
+    left outer join
+        translation translatio1_
+            on location0_.id=translatio1_.location
+    left outer join
+        location location2_
+            on location0_.parent_id=location2_.id
+    left outer join
+        location location3_
+            on location2_.parent_id=location3_.id
+    where
+        location0_.type=?
+        and upper(translatio1_.language)=upper(?)
+        and upper(location3_.code)=upper(?)
+     */

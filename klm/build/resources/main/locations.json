@@ -1,0 +1,46 @@
+[{
+  "code" : "PR",
+  "type" : "country",
+  "latitude" : 18.15,
+  "longitude" : -66.3,
+  "name" : "Puerto Rico",
+  "description" : "Puerto Rico (PR)",
+  "parentLocationCode" : null,
+  "parentLocationType" : null
+}, {
+  "code" : "HK",
+  "type" : "country",
+  "latitude" : 22.15,
+  "longitude" : 114.1,
+  "name" : "Hong Kong",
+  "description" : "Hong Kong (HK)",
+  "parentLocationCode" : null,
+  "parentLocationType" : null
+}, {
+  "code" : "PT",
+  "type" : "country",
+  "latitude" : 39.3,
+  "longitude" : -8.0,
+  "name" : "Portugal",
+  "description" : "Portugal (PT)",
+  "parentLocationCode" : null,
+  "parentLocationType" : null
+}, {
+  "code" : "HN",
+  "type" : "country",
+  "latitude" : 15.0,
+  "longitude" : -86.3,
+  "name" : "Honduras",
+  "description" : "Honduras (HN)",
+  "parentLocationCode" : null,
+  "parentLocationType" : null
+}, {
+  "code" : "PW",
+  "type" : "country",
+  "latitude" : 7.3,
+  "longitude" : 134.3,
+  "name" : "Palau Islands",
+  "description" : "Palau Islands (PW)",
+  "parentLocationCode" : null,
+  "parentLocationType" : null
+}]

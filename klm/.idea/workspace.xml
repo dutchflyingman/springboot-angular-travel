@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97c7bb68-a99f-4f95-9b9b-f30d6d4c626d" name="Default Changelist" comment="front end added">
+      <change afterPath="$PROJECT_DIR$/../angular/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="152" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="klm" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="klm" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="klm" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\klm-restapi-angular\klm\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UnJbl88DOBaPX2KM1Ky5aOOQp1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../docker-compose.yaml" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+    <property name="ts.external.directory.path" value="C:\klm\src\main\frontend\client-app\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.afkl.travel.exercise.test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.afkl.travel.exercise.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\klm-restapi-angular\klm\src\test" />
+      <recent name="C:\klm\src" />
+      <recent name="C:\klm\src\main\frontend\client-app\src\assets" />
+      <recent name="C:\klm\src\main\frontend\client-app\src" />
+      <recent name="C:\klm" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\klm-restapi-angular\klm\src\main\java\com\afkl\travel\exercise\test" />
+      <recent name="C:\klm-restapi-angular\klm\src\main\java\com\afkl\travel\exercise\test\service" />
+      <recent name="C:\klm-restapi-angular\klm\src\main\java\com\afkl\travel\exercise" />
+      <recent name="C:\klm" />
+      <recent name="C:\klm\src" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle build" />
+      <command value="gradle dependencies" />
+      <command value="gradle build --refresh-dependencies" />
+      <command value="gradle runSwaggerUI" />
+      <command value="gradle bootRun" />
+      <command value="gradle  clean build" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="klm [bootRun]" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="klm [clean build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="All in klm.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="klm.main" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocationResourceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="klm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.afkl.travel.exercise.test.resource.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.afkl.travel.exercise.test.resource" />
+      <option name="MAIN_CLASS_NAME" value="com.afkl.travel.exercise.test.resource.LocationResourceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocationResourceTest.getAirportHappyFlow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="klm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.afkl.travel.exercise.test.resource.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.afkl.travel.exercise.test.resource" />
+      <option name="MAIN_CLASS_NAME" value="com.afkl.travel.exercise.test.resource.LocationResourceTest" />
+      <option name="METHOD_NAME" value="getAirportHappyFlow" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.afkl.travel.exercise in klm.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="klm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.afkl.travel.exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.afkl.travel.exercise" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="klm.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.afkl.travel.exercise.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.klm [clean build]" />
+        <item itemvalue="JUnit.All in klm.main" />
+        <item itemvalue="JUnit.LocationResourceTest.getAirportHappyFlow" />
+        <item itemvalue="JUnit.com.afkl.travel.exercise in klm.main" />
+        <item itemvalue="JUnit.LocationResourceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97c7bb68-a99f-4f95-9b9b-f30d6d4c626d" name="Default Changelist" comment="" />
+      <created>1575986499786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575986499786</updated>
+      <workItem from="1575986507670" duration="3596000" />
+      <workItem from="1575991238757" duration="8074000" />
+      <workItem from="1576005502652" duration="649000" />
+      <workItem from="1576009062521" duration="1276000" />
+      <workItem from="1576163005802" duration="1615000" />
+      <workItem from="1576167585015" duration="523000" />
+      <workItem from="1576172837185" duration="1235000" />
+      <workItem from="1576174113112" duration="264000" />
+      <workItem from="1576174414382" duration="3242000" />
+      <workItem from="1576178486294" duration="7534000" />
+      <workItem from="1576225084613" duration="4916000" />
+      <workItem from="1576230037704" duration="669000" />
+      <workItem from="1576230752552" duration="575000" />
+      <workItem from="1576231366438" duration="178000" />
+      <workItem from="1576231572953" duration="3192000" />
+      <workItem from="1576234806470" duration="876000" />
+      <workItem from="1576235725669" duration="15018000" />
+      <workItem from="1576251368959" duration="10029000" />
+      <workItem from="1576265920949" duration="11792000" />
+      <workItem from="1576322072532" duration="35472000" />
+      <workItem from="1576411111934" duration="5793000" />
+      <workItem from="1576421810849" duration="3379000" />
+      <workItem from="1576432961017" duration="56016000" />
+      <workItem from="1576527860818" duration="3572000" />
+      <workItem from="1576535257198" duration="31869000" />
+      <workItem from="1576600026218" duration="3867000" />
+      <workItem from="1576617298224" duration="201000" />
+      <workItem from="1576617540236" duration="2527000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/src/main/frontend/client-app" />
+    </ignored-roots>
+    <MESSAGE value="front end added" />
+    <option name="LAST_COMMIT_MESSAGE" value="front end added" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Assign_Data_Sources" timestamp="1576185235234">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Assign_Data_Sources/0.0.1280.680@0.0.1280.680" timestamp="1576185235234" />
+    <state x="361" y="0" key="#Dockerfile" timestamp="1576416217490">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="361" y="0" key="#Dockerfile/0.0.1280.680@0.0.1280.680" timestamp="1576416217490" />
+    <state x="233" y="0" key="#Inspections" timestamp="1576179274252">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1576179274252" />
+    <state x="233" y="0" key="#Notifications" timestamp="1576178404522">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1576178404522" />
+    <state x="233" y="0" key="#Project_Structure" timestamp="1576235950435">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1576235950435" />
+    <state x="371" y="94" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1576238383515">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="94" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1280.680@0.0.1280.680" timestamp="1576238383515" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576432897922">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1576432897922" />
+    <state x="387" y="142" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576416204762">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="387" y="142" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1576416204762" />
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1576591787664">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1576591787664" />
+    <state x="387" y="224" width="505" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1576230565799">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="387" y="224" width="505" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1576230565799" />
+    <state x="186" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1576525602641">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="186" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1576525602641" />
+    <state x="507" y="85" width="593" height="595" key="#xdebugger.evaluate" timestamp="1576598913744">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="507" y="85" width="593" height="595" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1576598913744" />
+    <state x="360" y="186" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1576345689852">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="360" y="186" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1576345689852" />
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1576362720543">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1576362720543" />
+    <state width="910" height="461" key="DebuggerActiveHint" timestamp="1576526953870">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="910" height="461" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1576526953870" />
+    <state x="421" y="94" key="FileChooserDialogImpl" timestamp="1576622493203">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="94" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1576622493203" />
+    <state width="1237" height="207" key="GridCell.Tab.0.bottom" timestamp="1576608541584">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="207" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576608541584" />
+    <state width="1237" height="207" key="GridCell.Tab.0.center" timestamp="1576608541584">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="207" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576608541584" />
+    <state width="1237" height="207" key="GridCell.Tab.0.left" timestamp="1576608541583">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="207" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576608541583" />
+    <state width="1237" height="207" key="GridCell.Tab.0.right" timestamp="1576608541584">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="207" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576608541584" />
+    <state width="1237" height="207" key="GridCell.Tab.1.bottom" timestamp="1576608541585">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="207" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576608541585" />
+    <state width="1237" height="207" key="GridCell.Tab.1.center" timestamp="1576608541584">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="207" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1576608541584" />
+    <state width="1237" height="207" key="GridCell.Tab.1.left" timestamp="1576608541584">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="207" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1576608541584" />
+    <state width="1237" height="207" key="GridCell.Tab.1.right" timestamp="1576608541584">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="207" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1576608541584" />
+    <state width="1237" height="207" key="GridCell.Tab.2.bottom" timestamp="1576608541587">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="207" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576608541587" />
+    <state width="1237" height="207" key="GridCell.Tab.2.center" timestamp="1576608541587">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="207" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1576608541587" />
+    <state width="1237" height="207" key="GridCell.Tab.2.left" timestamp="1576608541587">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="207" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1576608541587" />
+    <state width="1237" height="207" key="GridCell.Tab.2.right" timestamp="1576608541587">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="207" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1576608541587" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1576598828931">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1576598828931" />
+    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1576452463215">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1576452463215" />
+    <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1576588467495">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1576588467495" />
+    <state x="336" y="163" key="com.intellij.ide.util.TipDialog" timestamp="1576622488151">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="336" y="163" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1576622488151" />
+    <state x="299" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1576519641430">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="299" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680@0.0.1280.680" timestamp="1576519641430" />
+    <state x="412" y="43" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1576432115430">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="412" y="43" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1576432115430" />
+    <state x="203" y="76" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1576599410322">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="203" y="76" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1576599410322" />
+    <state x="371" y="95" key="extract.method.dialog" timestamp="1576523994538">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="95" key="extract.method.dialog/0.0.1280.680@0.0.1280.680" timestamp="1576523994538" />
+    <state x="0" y="0" width="739" height="680" key="find.popup" timestamp="1576531296914">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" width="739" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1576531296914" />
+    <state x="90" y="0" key="new project wizard" timestamp="1575996349692">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="90" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1575996349692" />
+    <state x="297" y="153" width="672" height="677" key="run.anything.popup" timestamp="1576599485256">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="153" width="672" height="677" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1576599485256" />
+    <state x="297" y="-2" width="672" height="160" key="search.everywhere.popup" timestamp="1576599823013">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="-2" width="672" height="160" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1576599823013" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/afkl/travel/exercise/resource/StatisticsResource.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="&quot;en-US,en;q=0.9&quot;" language="JAVA" />
+        <watch expression="metersList.get(0)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/klm$com_afkl_travel_exercise_test_service_in_klm_main.ic" NAME="com.afkl.travel.exercise.test.service in klm.main Coverage Results" MODIFIED="1576585184004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.afkl.travel.exercise.test.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/klm$Application.ic" NAME="Application Coverage Results" MODIFIED="1576178422201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/klm$com_afkl_travel_exercise_in_klm_main.ic" NAME="com.afkl.travel.exercise in klm.main Coverage Results" MODIFIED="1576595773968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.afkl.travel.exercise.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/klm$All_in_klm_main.ic" NAME="All in klm.main Coverage Results" MODIFIED="1576596269178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/klm$klm__bootRun_.ic" NAME="klm [bootRun] Coverage Results" MODIFIED="1576591126716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
