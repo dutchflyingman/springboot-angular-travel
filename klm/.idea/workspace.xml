@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97c7bb68-a99f-4f95-9b9b-f30d6d4c626d" name="Default Changelist" comment="front end added">
-      <change afterPath="$PROJECT_DIR$/../angular/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../angular/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +105,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../docker-compose.yaml" />
+    <property name="last_opened_file_path" value="C:/temp/BUX-trading-bot-assignment-master" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
@@ -309,7 +309,7 @@
       <workItem from="1576535257198" duration="31869000" />
       <workItem from="1576600026218" duration="3867000" />
       <workItem from="1576617298224" duration="201000" />
-      <workItem from="1576617540236" duration="2527000" />
+      <workItem from="1576617540236" duration="3912000" />
     </task>
     <servers />
   </component>
@@ -385,10 +385,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="910" height="461" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1576526953870" />
-    <state x="421" y="94" key="FileChooserDialogImpl" timestamp="1576622493203">
+    <state x="421" y="94" key="FileChooserDialogImpl" timestamp="1576689430401">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="94" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1576622493203" />
+    <state x="421" y="94" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1576689430401" />
     <state width="1237" height="207" key="GridCell.Tab.0.bottom" timestamp="1576608541584">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
